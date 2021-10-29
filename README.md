@@ -1,5 +1,5 @@
 ## EDA on Facebook
-The dataset consists of information about the profiles of facebook users
+The dataset consists of information about the usage of facebook by different aged users
 ![enter image description here](https://assets.wordstream.com/s3fs-public/styles/simple_image/public/images/facebook-logo-stats-2018.png?xnmV_wKuqClXX297l4IsIMmIYZJZrktk&itok=NuRNkmk0)
 
 **Details on Dataset:**
